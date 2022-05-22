@@ -33,25 +33,25 @@ export default function Home() {
         leftBtnText="Custom order"
         rightBtnText="Existing Inventory"
       />
-      <Section 
-      title="Lowest Cost Solar Panels in America"
-      description="Money-Back Guarentee"
-      backgroundImg="solar-panel.jpg"
-      leftBtnText="Order Now"
-      rightBtnText="Learn More"
+      <Section
+        title="Lowest Cost Solar Panels in America"
+        description="Money-Back Guarentee"
+        backgroundImg="solar-panel.jpg"
+        leftBtnText="Order Now"
+        rightBtnText="Learn More"
       />
       <Section
-      title="Solar for New Roofs"
-      description="Solar roof Costs Less than a New Roof Plus Solar Panels"
-      backgroundImg="solar-roof.jpg"
-      leftBtnText="Order Now"
-      rightBtnText="Learn More"
+        title="Solar for New Roofs"
+        description="Solar roof Costs Less than a New Roof Plus Solar Panels"
+        backgroundImg="solar-roof.jpg"
+        leftBtnText="Order Now"
+        rightBtnText="Learn More"
       />
       <Section
-      title="Accessories"
-      description=""
-      backgroundImg="accessories.jpg" 
-      leftBtnText="Shop Now"
+        title="Accessories"
+        description=""
+        backgroundImg="accessories.jpg"
+        leftBtnText="Shop Now"
       />
     </Container>
   );
